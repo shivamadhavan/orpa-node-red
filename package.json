@@ -1,5 +1,5 @@
 {
-    "name": "@telligro/opal-node-red",
+    "name": "opal-node-red",
     "version": "0.3.0",
     "description": "A node-red wrapper for RPA",
     "homepage": "https://github.com/telligro/opal-node-red",
